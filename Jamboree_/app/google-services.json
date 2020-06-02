@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "992911544726",
+    "firebase_url": "https://jumboree-alpha.firebaseio.com",
+    "project_id": "jumboree-alpha",
+    "storage_bucket": "jumboree-alpha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992911544726:android:71163129eec429840b4db7",
+        "android_client_info": {
+          "package_name": "com.ktu.ld1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992911544726-hra1ns72e2baflah0qsp6739f61hjmsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ktu.ld1",
+            "certificate_hash": "de43ae615058848986f4d27291aa436275cb22db"
+          }
+        },
+        {
+          "client_id": "992911544726-kfubg4u5dco20alnvjmrovufq0df73un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiByiMzr6Dq-tN1uPjrM1Gm7ZXLcbYY7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992911544726-kfubg4u5dco20alnvjmrovufq0df73un.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

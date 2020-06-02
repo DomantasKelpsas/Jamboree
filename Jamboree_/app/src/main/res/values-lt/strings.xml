@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string name="app_name">jamboree</string>
+    <string name="app_title">Jamboree</string>
+    <string name="login">Prisijungti</string>
+    <string name="save">Išsaugoti</string>
+    <string name="about">Detaliau</string>
+    <string name="username">Vardas</string>
+    <string name="userage">Amžius</string>
+    <string name="colormode">Naktinis rėžimas</string>
+    <string name="language">Kalba</string>
+    <string name="title_settings">Nustatymai</string>
+    <string name="title_user">Profilio redagavimas</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="warning_db">Duombazė neprijungta</string>
+    <string name="about_message">Domantas Kelpsas IFC-7, 2020</string>
+    <string name="event_rating_symbol">⭐</string>
+</resources>

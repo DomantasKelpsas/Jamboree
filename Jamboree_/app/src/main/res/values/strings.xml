@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">jamboree</string>
+    <string name="app_title">Jamboree</string>
+    <string name="login">Login</string>
+    <string name="login_fb">Login with Facebook</string>
+    <string name="save">Save</string>
+    <string name="add_event">Add Event</string>
+    <string name="choose_image">choose image</string>
+    <string name="about">About</string>
+    <string name="username">Username</string>
+    <string name="userage">Userage</string>
+    <string name="colormode">Dark mode</string>
+    <string name="language">Language</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_user">Profile edit</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="warning_db">Database is not connected</string>
+    <string name="about_message">Domantas Kelpsas IFC-7, 2020</string>
+    <string name="event_rating_symbol">⭐</string>
+
+    <string name="facebook_app_id">1084278198598079</string>
+    <string name="fb_login_protocol_scheme">fb1084278198598079</string>
+
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+</resources>
